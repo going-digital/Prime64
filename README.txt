@@ -19,6 +19,9 @@ For numbers up to 18,446,744,073,709,551,615, it uses the Miller-Rabin test.
 Prime64 supports all 64 bit integers. For a smaller faster 32 bit
 implementation covering up to 4,294,967,295, see the companion library Prime.
 
+https://github.com/going-digital/Prime
+https://github.com/going-digital/Prime64
+
 Thanks
 ------
     MathsJam Cambridge
